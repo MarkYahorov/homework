@@ -1,3 +1,5 @@
+package HomeWork1;
+
 public class BynaryCode {
     public static void main(String[] args) {
         byte a = 42;
